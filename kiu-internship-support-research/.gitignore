@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Analysis outputs generated from real or dummy data
+analysis/outputs/
+
+# Local spreadsheet/editor files
+~$*.xlsx
+.DS_Store
+Thumbs.db
+
+# Keep raw data private if it contains real responses.
+# The dummy placeholder CSV is intentionally tracked.
+# After collecting real data, consider storing identifiable raw exports outside Git.
+
