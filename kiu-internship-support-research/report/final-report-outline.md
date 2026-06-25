@@ -57,6 +57,11 @@ Suggested subsections:
 - Ethical considerations
 - Limitations
 
+Measurement note:
+
+- Calculate readiness from neutral readiness items only.
+- Discuss `support_readiness_impact` separately and only among support users.
+
 ## 4. Results
 
 Present findings clearly without too much interpretation.
@@ -65,9 +70,12 @@ Suggested subsections:
 
 - Sample characteristics
 - Awareness and usage
+- Reasons for non-use
 - Service satisfaction and usefulness
 - Internship readiness
-- Readiness comparison and t-test
+- Readiness comparison and Welch t-test
+- Reliability checks, if available
+- Improvement priorities
 - Open-ended response themes
 
 ## 5. Discussion
@@ -77,6 +85,8 @@ Interpret the results in relation to the research question, hypotheses, and lite
 ## 6. Conclusion and Recommendations
 
 Summarize the main answer to the research question and provide practical recommendations for improving internship support.
+
+Tie recommendations to actual survey evidence, especially the top improvement priority and open-ended themes.
 
 ## References
 
@@ -89,4 +99,3 @@ Include:
 - Appendix A: Survey questionnaire
 - Appendix B: Consent form
 - Appendix C: Extra tables
-

@@ -2,13 +2,11 @@
 
 ## 5. Discussion
 
-This section interprets the findings in relation to the research question, hypotheses, and literature review.
+This section interprets the findings in relation to the research question, hypotheses, and literature review. Begin with a direct answer, then explain what the results mean in practical terms.
 
 ## Interpretation of Main Findings
 
-Begin by answering the research question directly.
-
-Example sentence:
+Suggested wording:
 
 > Overall, the findings suggest that KIU internship support services are perceived as [effective/moderately effective/limited] by the surveyed undergraduate students.
 
@@ -16,59 +14,53 @@ Discuss:
 
 - Whether students are aware of the services
 - Whether students use the services
-- Which service areas received high or low ratings
+- Why non-users say they have not used the services
+- Which service areas received high or low ratings among support users
 - Whether support usage is associated with readiness
+- Which improvement priorities appear most urgent
 
 ## Hypothesis Interpretation
 
 Explain whether the results support H0 or H1.
 
-Example if significant:
+If significant:
 
-> Because students who used support services reported significantly higher readiness scores, the findings support the alternative hypothesis.
+> Because students who used support services reported significantly higher readiness scores, the findings support the alternative hypothesis for the surveyed sample. However, the cross-sectional convenience-sample design means the result should be interpreted as an association, not as causal proof.
 
-Example if not significant:
+If not significant:
 
-> Because the difference in readiness scores was not statistically significant, the study failed to reject the null hypothesis.
+> Because the difference in readiness scores was not statistically significant, the study failed to reject the null hypothesis. This does not prove that support services have no effect; it means the survey data did not show enough evidence of a readiness difference in this sample.
 
 ## Connection to Literature
 
-Connect results to previous research.
+Connect results to previous research and frameworks. Strong connection points include:
 
-Example sentence:
-
-> The finding that communication and accessibility matter is consistent with literature emphasizing that student support services must be visible and easy to use.
+- NACE career readiness competencies if readiness items are high or low.
+- CEWIL work-integrated learning logic if students want stronger employer or practice connections.
+- Dacre Pool and Sewell's employability model if students need both skills and confidence.
+- Lent, Brown, and Hackett's career self-efficacy theory if readiness confidence differs between groups.
 
 ## Practical Meaning
 
-Explain what the findings mean for KIU.
+Explain what the findings mean for KIU. Possible points:
 
-Possible points:
-
-- Students may need earlier information about internships.
+- Students may need earlier and clearer information about internships.
 - Support may be more useful when tailored by school or field.
-- Employer connections may be a priority for improvement.
+- Employer and alumni connections may be a priority for improvement.
 - Mock interviews and CV feedback can increase practical readiness.
-
-## Unexpected Findings
-
-Use this section if any results were surprising.
-
-Example sentence:
-
-> One unexpected finding was that [result], which may be explained by [possible reason].
+- A central platform may reduce confusion if information is scattered.
 
 ## Limitations
 
 Discuss limitations honestly:
 
 - Convenience sampling
-- Small sample size
+- Small sample size if applicable
 - Self-reported perceptions
 - Possible nonresponse bias
 - No direct measure of actual internship placement
+- Cross-sectional design, which limits causal interpretation
 
 ## Recommendations for Future Research
 
-Future studies could use a larger sample, compare schools, include interviews, or examine actual internship outcomes.
-
+Future studies could use a larger sample, compare schools, include interviews, examine actual internship outcomes, or collect follow-up data before and after students use support services.

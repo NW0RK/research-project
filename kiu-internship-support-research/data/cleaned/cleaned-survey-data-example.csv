@@ -1,32 +1,31 @@
-respondent_id,year_of_study,school,searched_for_internship,completed_internship,awareness_score,used_support,info_availability,communication_quality,application_support,cv_support,interview_support,industry_connections,accessibility,overall_satisfaction,finding_confidence,cv_confidence,interview_confidence,employer_expectations,readiness_improvement,biggest_weakness,improvement_suggestion
-R001,1st year,Computer Science and Engineering,Yes,No,3,No,3,3,2,3,2,2,3,3,3,3,2,3,2,Limited early information,Share internship information earlier
-R002,2nd year,Management,Yes,No,4,Yes,4,4,4,5,4,3,4,4,4,5,4,4,4,Not enough employer events,Invite more companies to campus
-R003,3rd year,Computer Science and Engineering,Yes,Yes,5,Yes,5,4,4,5,4,4,5,5,5,5,4,5,5,Limited industry-specific guidance,Offer school-specific internship sessions
-R004,2nd year,Medicine,No,No,2,No,2,2,2,2,1,1,2,2,2,2,1,2,1,Low awareness among students,Promote services in first-year courses
-R005,4th year,Management,Yes,Yes,4,Yes,4,3,4,4,3,3,4,4,4,4,3,4,4,Communication sometimes late,Send deadlines earlier
-R006,3rd year,Computer Science and Engineering,Yes,No,3,No,3,2,3,3,2,2,3,3,3,3,2,3,2,Hard to find all opportunities,Create one internship portal
-R007,1st year,Management,No,No,2,No,2,3,2,2,2,1,2,2,2,2,2,2,1,Freshmen are not targeted,Introduce services during orientation
-R008,4th year,Computer Science and Engineering,Yes,Yes,5,Yes,4,5,5,5,5,4,4,5,5,5,5,5,5,Few advanced technical placements,Develop more tech employer partnerships
-R009,2nd year,Computer Science and Engineering,Yes,No,4,Yes,4,4,3,4,3,3,4,4,4,4,3,4,4,Interview preparation could be deeper,Run mock interview weeks
-R010,3rd year,Management,Yes,No,3,No,3,3,3,3,2,2,3,3,3,3,2,3,2,Support feels general,Provide more personalized advising
-R011,4th year,Medicine,Yes,Yes,4,Yes,4,4,4,4,4,3,4,4,4,4,4,4,4,Limited healthcare internship options,Build partnerships with clinics
-R012,1st year,Computer Science and Engineering,No,No,1,No,2,2,1,2,1,1,2,2,1,2,1,2,1,I do not know where to start,Make a beginner guide
-R013,2nd year,Management,Yes,No,5,Yes,5,4,4,4,4,4,5,4,4,4,4,4,5,Too many messages in different channels,Use a central announcement channel
-R014,3rd year,Computer Science and Engineering,Yes,Yes,4,Yes,4,4,5,5,4,4,4,5,5,5,4,5,5,More support needed after applying,Follow up after applications
-R015,2nd year,Medicine,No,No,2,No,2,2,2,2,2,1,2,2,2,2,2,2,1,Services are not visible,Advertise through faculty mentors
-R016,4th year,Management,Yes,Yes,5,Yes,5,5,4,5,4,4,5,5,5,5,4,5,5,Few international opportunities,Add international internship guidance
-R017,3rd year,Computer Science and Engineering,Yes,No,3,No,3,3,2,3,2,2,2,3,3,3,2,3,2,Need better employer contacts,Create more company networking events
-R018,1st year,Medicine,No,No,2,No,2,2,1,2,1,1,2,2,1,2,1,2,1,Information is unclear for first years,Create a simple FAQ
-R019,2nd year,Computer Science and Engineering,Yes,No,4,Yes,4,3,4,4,3,3,4,4,4,4,3,4,4,CV feedback takes time,Offer faster review slots
-R020,4th year,Computer Science and Engineering,Yes,Yes,5,Yes,5,4,5,5,5,4,5,5,5,5,5,5,5,More alumni examples needed,Invite alumni interns to speak
-R021,3rd year,Management,Yes,No,3,No,3,3,3,3,2,2,3,3,3,3,2,3,2,Not enough practical workshops,Add hands-on application workshops
-R022,2nd year,Medicine,Yes,No,4,Yes,4,4,3,4,3,3,3,4,4,4,3,4,4,Limited options for medicine students,Coordinate with healthcare partners
-R023,1st year,Computer Science and Engineering,No,No,2,No,2,2,2,2,1,1,2,2,2,2,1,2,1,Students hear about services late,Introduce internship planning earlier
-R024,4th year,Management,Yes,Yes,5,Yes,5,5,5,5,4,4,5,5,5,5,4,5,5,Application tracking is missing,Add application tracking support
-R025,3rd year,Computer Science and Engineering,Yes,No,4,Yes,4,4,4,5,4,3,4,4,4,5,4,4,4,Need more interview practice,Schedule regular mock interviews
-R026,2nd year,Management,Yes,No,3,No,3,2,2,3,2,2,3,3,3,3,2,3,2,Support is not personalized,Offer one-to-one advising slots
-R027,4th year,Medicine,Yes,Yes,4,Yes,4,4,4,4,4,3,4,4,4,4,4,4,4,Employer list is limited,Expand internship partner database
-R028,1st year,Management,No,No,2,No,2,2,2,2,2,1,2,2,2,2,2,2,1,First-year students are unsure,Create first-year career roadmap
-R029,3rd year,Computer Science and Engineering,Yes,Yes,5,Yes,5,4,5,5,4,5,4,5,5,5,5,5,5,Need more startup connections,Invite startups and SMEs
-R030,2nd year,Computer Science and Engineering,Yes,No,3,No,3,3,2,3,2,2,3,3,3,3,2,3,2,Information is scattered,Use one searchable platform
-
+respondent_id,consent,year_of_study,school,searched_for_internship,completed_internship,awareness_score,used_support,support_services_used,nonuse_reason,info_availability,communication_quality,application_support,cv_support,interview_support,industry_connections,accessibility,overall_satisfaction,finding_confidence,cv_confidence,interview_confidence,employer_expectations,support_readiness_impact,top_improvement_priority,biggest_weakness,improvement_suggestion
+R001,Yes,1st year,Computer Science and Engineering,Yes,No,3,No,,I did not know how to access them,,,,,,,,,3,3,2,3,,Earlier communication about internship opportunities,Limited early information,Share internship information earlier
+R002,Yes,2nd year,Management,Yes,No,4,Yes,Internship information or announcements; CV or resume support,,4,4,4,5,4,3,4,4,4,5,4,4,4,More employer and alumni networking events,Not enough employer events,Invite more companies to campus
+R003,Yes,3rd year,Computer Science and Engineering,Yes,Yes,5,Yes,Internship information or announcements; CV or resume support; Application support,,5,4,4,5,4,4,5,5,5,5,4,5,5,More school-specific internship guidance,Limited industry-specific guidance,Offer school-specific internship sessions
+R004,Yes,2nd year,Medicine,No,No,2,No,,I did not know the services existed,,,,,,,,,2,2,1,2,,Earlier communication about internship opportunities,Low awareness among students,Promote services in first-year courses
+R005,Yes,4th year,Management,Yes,Yes,4,Yes,Internship information or announcements; Application support,,4,3,4,4,3,3,4,4,4,4,3,4,4,Earlier communication about internship opportunities,Communication sometimes late,Send deadlines earlier
+R006,Yes,3rd year,Computer Science and Engineering,Yes,No,3,No,,I did not know how to access them,,,,,,,,,3,3,2,3,,One central internship information platform,Hard to find all opportunities,Create one internship portal
+R007,Yes,1st year,Management,No,No,2,No,,I planned to use them later,,,,,,,,,2,2,2,2,,Earlier communication about internship opportunities,First-year students are not targeted,Introduce services during orientation
+R008,Yes,4th year,Computer Science and Engineering,Yes,Yes,5,Yes,Internship information or announcements; CV or resume support; Interview preparation; Employer or alumni events,,4,5,5,5,5,4,4,5,5,5,5,5,5,More employer and alumni networking events,Few advanced technical placements,Develop more tech employer partnerships
+R009,Yes,2nd year,Computer Science and Engineering,Yes,No,4,Yes,CV or resume support; Interview preparation,,4,4,3,4,3,3,4,4,4,4,3,4,4,More mock interview practice,Interview preparation could be deeper,Run mock interview weeks
+R010,Yes,3rd year,Management,Yes,No,3,No,,The available services did not seem relevant to my field,,,,,,,,,3,3,2,3,,More school-specific internship guidance,Support feels general,Provide more personalized advising
+R011,Yes,4th year,Medicine,Yes,Yes,4,Yes,Internship information or announcements; Employer or alumni events,,4,4,4,4,4,3,4,4,4,4,4,4,4,More employer and alumni networking events,Limited healthcare internship options,Build partnerships with clinics
+R012,Yes,1st year,Computer Science and Engineering,No,No,1,No,,I did not know the services existed,,,,,,,,,1,2,1,2,,Earlier communication about internship opportunities,I do not know where to start,Make a beginner guide
+R013,Yes,2nd year,Management,Yes,No,5,Yes,Internship information or announcements; One-to-one advising,,5,4,4,4,4,4,5,4,4,4,4,4,5,One central internship information platform,Too many messages in different channels,Use a central announcement channel
+R014,Yes,3rd year,Computer Science and Engineering,Yes,Yes,4,Yes,Application support; CV or resume support; One-to-one advising,,4,4,5,5,4,4,4,5,5,5,4,5,5,More CV or resume support,More support needed after applying,Follow up after applications
+R015,Yes,2nd year,Medicine,No,No,2,No,,I did not know the services existed,,,,,,,,,2,2,2,2,,Earlier communication about internship opportunities,Services are not visible,Advertise through faculty mentors
+R016,Yes,4th year,Management,Yes,Yes,5,Yes,Internship information or announcements; Employer or alumni events; Application support,,5,5,4,5,4,4,5,5,5,5,4,5,5,More employer and alumni networking events,Few international opportunities,Add international internship guidance
+R017,Yes,3rd year,Computer Science and Engineering,Yes,No,3,No,,The available services did not seem relevant to my field,,,,,,,,,3,3,2,3,,More employer and alumni networking events,Need better employer contacts,Create more company networking events
+R018,Yes,1st year,Medicine,No,No,2,No,,I did not know the services existed,,,,,,,,,1,2,1,2,,Earlier communication about internship opportunities,Information is unclear for first years,Create a simple FAQ
+R019,Yes,2nd year,Computer Science and Engineering,Yes,No,4,Yes,CV or resume support; Application support,,4,3,4,4,3,3,4,4,4,4,3,4,4,More CV or resume support,CV feedback takes time,Offer faster review slots
+R020,Yes,4th year,Computer Science and Engineering,Yes,Yes,5,Yes,Internship information or announcements; CV or resume support; Employer or alumni events,,5,4,5,5,5,4,5,5,5,5,5,5,5,More employer and alumni networking events,More alumni examples needed,Invite alumni interns to speak
+R021,Yes,3rd year,Management,Yes,No,3,No,,I knew about them but did not need them,,,,,,,,,3,3,2,3,,More mock interview practice,Not enough practical workshops,Add hands-on application workshops
+R022,Yes,2nd year,Medicine,Yes,No,4,Yes,Internship information or announcements; Application support,,4,4,3,4,3,3,3,4,4,4,3,4,4,More school-specific internship guidance,Limited options for medicine students,Coordinate with healthcare partners
+R023,Yes,1st year,Computer Science and Engineering,No,No,2,No,,I planned to use them later,,,,,,,,,2,2,1,2,,Earlier communication about internship opportunities,Students hear about services late,Introduce internship planning earlier
+R024,Yes,4th year,Management,Yes,Yes,5,Yes,Application support; One-to-one advising,,5,5,5,5,4,4,5,5,5,5,4,5,5,One central internship information platform,Application tracking is missing,Add application tracking support
+R025,Yes,3rd year,Computer Science and Engineering,Yes,No,4,Yes,CV or resume support; Interview preparation,,4,4,4,5,4,3,4,4,4,5,4,4,4,More mock interview practice,Need more interview practice,Schedule regular mock interviews
+R026,Yes,2nd year,Management,Yes,No,3,No,,I knew about them but did not need them,,,,,,,,,3,3,2,3,,More school-specific internship guidance,Support is not personalized,Offer one-to-one advising slots
+R027,Yes,4th year,Medicine,Yes,Yes,4,Yes,Internship information or announcements; Employer or alumni events,,4,4,4,4,4,3,4,4,4,4,4,4,4,More employer and alumni networking events,Employer list is limited,Expand internship partner database
+R028,Yes,1st year,Management,No,No,2,No,,I planned to use them later,,,,,,,,,2,2,2,2,,Earlier communication about internship opportunities,First-year students are unsure,Create first-year career roadmap
+R029,Yes,3rd year,Computer Science and Engineering,Yes,Yes,5,Yes,Internship information or announcements; Employer or alumni events; Interview preparation,,5,4,5,5,4,5,4,5,5,5,5,5,5,More employer and alumni networking events,Need more startup connections,Invite startups and SMEs
+R030,Yes,2nd year,Computer Science and Engineering,Yes,No,3,No,,I did not know how to access them,,,,,,,,,3,3,2,3,,One central internship information platform,Information is scattered,Use one searchable platform

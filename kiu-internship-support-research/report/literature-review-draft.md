@@ -2,49 +2,40 @@
 
 ## Overview
 
-This section should connect the research topic to previous academic work on internships, employability, career services, student satisfaction, and career readiness. The final version should include citations from the source matrix.
+Internships are widely viewed as an important bridge between undergraduate study and employment because they help students connect academic learning with workplace expectations. For many students, internships also provide early professional networks, practical experience, and stronger confidence when applying for employment after graduation. This review focuses on five themes that support the current study: internships and employability, university support services, awareness and usage, satisfaction and usefulness, and internship readiness.
 
 ## Internships and Employability
 
-Internships are often discussed as a form of experiential learning that supports employability. They allow students to apply academic knowledge, develop workplace skills, and learn about professional expectations.
+Employability is broader than simply having a degree. Dacre Pool and Sewell (2007) describe employability as a combination of career development learning, experience, degree-subject knowledge, generic skills, and emotional intelligence. This matters for internship preparation because students often need both technical ability and confidence in presenting themselves to employers.
 
-Example sentence:
+Work-integrated learning also connects academic study with practical experience. CEWIL Canada (2021) defines work-integrated learning as curricular experiential education that formally connects academic study with quality workplace or practice-setting experiences. Although this project studies internship support rather than an internship program itself, the same logic applies: students need guidance that helps them move from classroom learning toward workplace participation.
 
-> Previous studies suggest that internship experiences can strengthen students' employability by improving practical skills, professional confidence, and understanding of workplace culture.
+Previous research suggests that internship and work-integrated learning experiences can support employability by developing workplace skills, professional confidence, and understanding of employer expectations (Gault et al., 2000; Jackson, 2015). However, Jackson (2015) also notes that employability skill development is not automatic; students need structured preparation, reflection, and access to relevant opportunities.
 
 ## University Support Services
 
-University internship and career support services can help students access opportunities and prepare competitive applications. These services may include career advising, CV review, interview training, employer networking, and internship databases.
+University career and internship support services can reduce uncertainty in the internship search process by providing information, advising, CV or resume feedback, interview preparation, and employer connections. These services are especially important when students are unsure where to find opportunities or how to present their skills.
 
-Example sentence:
-
-> Effective university support services can reduce uncertainty in the internship search process by providing structured guidance and timely information.
+The National Association of Colleges and Employers (NACE, 2026) frames career readiness as the foundation for demonstrating core competencies needed for workplace success and lifelong career management. Its competency framework includes career and self-development, communication, critical thinking, professionalism, teamwork, and technology. These areas are closely related to the practical tasks measured in this project, such as finding opportunities, preparing a CV, preparing for interviews, and understanding employer expectations.
 
 ## Awareness and Usage
 
-Service availability does not guarantee service usage. Students may fail to use support services if they are unaware of them, receive information too late, or do not understand how the services can help.
+Service availability does not guarantee service usage. Students may fail to use support services if they are unaware of them, receive information too late, or do not understand how services can help. For this reason, awareness and communication are not minor administrative details; they are part of service effectiveness.
 
-Example sentence:
-
-> Student awareness is a necessary condition for service effectiveness because students cannot benefit from services they do not know how to access.
+In the KIU context, measuring both awareness and usage is important because a low usage rate may reflect several different problems. Some students may not need support, but others may not know support exists, may not know how to access it, or may feel that available services are not relevant to their school or field. The revised questionnaire therefore asks non-users to identify their main reason for not using services.
 
 ## Satisfaction and Usefulness
 
-Student satisfaction reflects how students evaluate the quality and relevance of services. In the context of internship support, satisfaction may depend on communication quality, accessibility, practical usefulness, and employer connections.
+Student satisfaction provides useful evidence about service quality and relevance. In the context of internship support, satisfaction may depend on whether students receive practical help with the actual steps required in the internship process: finding opportunities, preparing applications, improving CVs, practicing interviews, and connecting with employers.
 
-Example sentence:
-
-> Satisfaction with internship support may be influenced by whether students receive practical help with the specific tasks required in the internship application process.
+This project separates satisfaction from general readiness. Satisfaction and perceived support impact are measured only among students who used support services, while readiness is measured among all consenting respondents. This design makes the analysis clearer because the readiness comparison does not include an item that directly asks whether support services improved readiness.
 
 ## Internship Readiness
 
-Internship readiness refers to students' perceived ability to search for opportunities, prepare application materials, participate in interviews, and understand employer expectations. This study treats readiness as a key outcome of support service effectiveness.
+Internship readiness refers to students' perceived ability to search for opportunities, prepare application materials, participate in interviews, and understand employer expectations. This study treats readiness as a perceived outcome that may differ between students who used KIU support services and students who did not.
 
-Example sentence:
-
-> Students who feel ready for internships may be more likely to apply actively and respond confidently to employer requirements.
+The readiness measure is also connected to career self-efficacy. Lent, Brown, and Hackett (1994) argue that self-efficacy beliefs shape career-related interests, choices, and performance. Students who feel more capable of preparing applications and meeting employer expectations may be more likely to search actively and apply confidently.
 
 ## Link to Current Study
 
-Based on the literature, this study examines whether KIU students who use internship support services report stronger perceived internship readiness than students who do not use the services. It also explores student suggestions for improving support.
-
+The literature suggests that internships, career readiness, and university support are closely connected, but local evidence is needed to understand how KIU students perceive internship support services. This study contributes by examining awareness, usage, satisfaction among users, reasons for non-use, perceived readiness, and student recommendations in the KIU undergraduate context.

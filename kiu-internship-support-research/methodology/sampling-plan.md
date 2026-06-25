@@ -18,9 +18,9 @@ The team should aim for at least 50 valid responses if possible. A larger sample
 
 Minimum practical target:
 
-- 30 responses: acceptable for practice analysis and descriptive findings
-- 50 responses: stronger for class project reporting
-- 80+ responses: better for subgroup comparisons
+- 30 responses: minimum practical threshold for descriptive findings
+- 50 responses: preferred target for class project reporting
+- 80+ responses: stretch target for stronger subgroup descriptions
 
 ## Recruitment Channels
 
@@ -48,6 +48,7 @@ Exclude responses if:
 - The respondent is not a KIU undergraduate student
 - The response is mostly incomplete
 - The response appears duplicated or unserious
+- The response includes direct identifiers in open-ended fields that cannot be safely anonymized
 
 ## Sampling Limitation Statement
 
@@ -55,3 +56,6 @@ Example report wording:
 
 > Because the study used convenience sampling, the findings should be interpreted as perceptions of the surveyed students rather than as statistically representative evidence for all KIU undergraduates.
 
+## Distribution Reminder
+
+Use at least two recruitment reminders before closing the survey if the response count is below 50. To reduce duplicate responses, share one official form link and avoid collecting names or student IDs unless the instructor explicitly requires them.

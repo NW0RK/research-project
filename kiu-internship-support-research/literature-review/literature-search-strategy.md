@@ -47,6 +47,19 @@ Exclude sources that:
 - Focus only on graduate employment without discussing preparation or support
 - Are opinion pieces without evidence
 
+## Starter Sources Already Added
+
+The `report/references.bib` file includes a starter set of sources the team can use and expand:
+
+- NACE career readiness competencies
+- CEWIL Canada work-integrated learning definitions
+- Jackson (2015) on employability skill development in work-integrated learning
+- Dacre Pool and Sewell (2007) on the CareerEDGE employability model
+- Tomlinson (2012) on graduate employability themes
+- Lent, Brown, and Hackett (1994) on career self-efficacy
+- Gault, Redington, and Schlager (2000) on internships and career success
+- Yorke (2006) on employability in higher education
+
 ## Search Log Template
 
 | Date | Database | Search Terms | Filters Used | Useful Results | Notes |
@@ -66,4 +79,3 @@ Exclude sources that:
 ## Practical Tip
 
 Use the source matrix file to summarize each article immediately after reading it. This prevents the team from losing useful ideas and makes the literature review easier to write.
-

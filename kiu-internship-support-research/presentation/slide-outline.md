@@ -43,15 +43,17 @@ Speaker focus:
 - Google Forms questionnaire
 - KIU undergraduate students
 - Convenience sampling
-- Descriptive statistics and t-test
+- Descriptive statistics and Welch t-test
 
 ## Slide 7: Survey Design
 
 - Background questions
 - Internship search and completion
 - Awareness and usage
-- Service evaluation items
-- Readiness items
+- Branching for support users and non-users
+- Service evaluation items for support users
+- Readiness items for all consenting students
+- Improvement priority question
 - Open-ended improvement questions
 
 ## Slide 8: Sample
@@ -61,41 +63,51 @@ Speaker focus:
 - School distribution
 - Internship search/completion status
 
-## Slide 9: Descriptive Results
+## Slide 9: Awareness and Usage
 
 - Awareness score
 - Usage percentage
-- Mean satisfaction score
-- Highest and lowest-rated service areas
+- Main reason for non-use
 
-## Slide 10: Inferential Results
+## Slide 10: Service Evaluation
+
+- Mean satisfaction score among support users
+- Highest-rated service area
+- Lowest-rated service area
+- Support readiness impact among support users
+
+## Slide 11: Inferential Results
 
 - Mean readiness for students who used support
 - Mean readiness for students who did not use support
-- t-test result and p-value
+- Mean difference and 95% confidence interval
+- Welch t-test result and p-value
+- Cohen's d
 - Decision about H0/H1
 
-## Slide 11: Open-Ended Findings
+## Slide 12: Improvement Priorities and Themes
 
+- Top improvement priorities
 - Biggest weaknesses
-- Most common improvement suggestions
-- One or two short anonymized examples, if appropriate
+- Most common open-ended themes
+- One short anonymized example, if appropriate
 
-## Slide 12: Discussion
+## Slide 13: Discussion
 
 - What the findings mean
 - How results connect to literature
 - What appears to be working
 - What needs improvement
 
-## Slide 13: Limitations
+## Slide 14: Limitations
 
 - Convenience sampling
 - Small sample size if applicable
 - Self-reported perceptions
 - No direct measure of internship placement outcomes
+- Association, not causation
 
-## Slide 14: Recommendations
+## Slide 15: Recommendations
 
 - Improve early communication
 - Create a central internship platform
@@ -103,18 +115,17 @@ Speaker focus:
 - Add regular CV and mock interview sessions
 - Provide school-specific guidance
 
-## Slide 15: Conclusion
+## Slide 16: Conclusion
 
 - Direct answer to the research question
 - Final message about improving student internship readiness
 
-## Slide 16: Q&A Preparation
+## Slide 17: Q&A Preparation
 
 Prepare answers for:
 
 - Why did you use a survey?
 - How did you measure readiness?
-- Why did you use a t-test?
+- Why did you use a Welch t-test?
 - What is the biggest limitation?
 - What should KIU improve first?
-

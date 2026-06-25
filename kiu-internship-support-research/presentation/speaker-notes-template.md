@@ -56,6 +56,7 @@ Notes:
 
 - Identify the design, sample, and data collection method.
 - Mention Google Forms and convenience sampling.
+- Mention that the analysis uses descriptive statistics and a Welch t-test.
 
 ## Slide 7: Survey Design
 
@@ -64,7 +65,9 @@ Speaker:
 Notes:
 
 - Explain the main sections of the questionnaire.
+- Mention branching for support users and non-users.
 - Mention the 1-5 Likert scale.
+- Explain that readiness is measured for all consenting respondents.
 
 ## Slide 8: Sample
 
@@ -75,34 +78,46 @@ Notes:
 - Report number of responses.
 - Highlight year and school distribution.
 
-## Slide 9: Descriptive Results
+## Slide 9: Awareness and Usage
 
 Speaker:
 
 Notes:
 
-- Present the most important descriptive findings.
+- Present awareness, support usage, and the main reason for non-use.
 - Avoid reading every number.
 
-## Slide 10: Inferential Results
+## Slide 10: Service Evaluation
+
+Speaker:
+
+Notes:
+
+- Report service evaluation results among support users only.
+- Highlight the highest-rated and lowest-rated service areas.
+- Mention support readiness impact if useful.
+
+## Slide 11: Inferential Results
 
 Speaker:
 
 Notes:
 
 - Explain the readiness comparison.
-- Report t-test result and conclusion.
+- Report mean difference, confidence interval, Welch t-test result, and conclusion.
+- Say association, not causation.
 
-## Slide 11: Open-Ended Findings
+## Slide 12: Improvement Priorities and Themes
 
 Speaker:
 
 Notes:
 
+- Present the top improvement priorities.
 - Summarize common student suggestions.
 - Connect comments to practical improvements.
 
-## Slide 12: Discussion
+## Slide 13: Discussion
 
 Speaker:
 
@@ -111,7 +126,7 @@ Notes:
 - Interpret what the findings mean.
 - Link the results back to the literature.
 
-## Slide 13: Limitations
+## Slide 14: Limitations
 
 Speaker:
 
@@ -120,7 +135,7 @@ Notes:
 - Be honest and concise.
 - Explain why limitations do not make the project useless.
 
-## Slide 14: Recommendations
+## Slide 15: Recommendations
 
 Speaker:
 
@@ -129,7 +144,7 @@ Notes:
 - Present recommendations as realistic actions.
 - Prioritize the most evidence-based suggestions.
 
-## Slide 15: Conclusion
+## Slide 16: Conclusion
 
 Speaker:
 
@@ -138,7 +153,7 @@ Notes:
 - Answer the research question.
 - End with a clear final message.
 
-## Slide 16: Q&A
+## Slide 17: Q&A
 
 Speaker:
 
@@ -146,4 +161,4 @@ Notes:
 
 - Invite questions.
 - Keep answers short and evidence-based.
-
+- Use `presentation/q-and-a-prep.md` for likely methodology questions.

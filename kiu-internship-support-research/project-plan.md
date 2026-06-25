@@ -13,9 +13,9 @@ This project examines how KIU undergraduate students perceive internship support
 - Research question and hypotheses
 - Literature review and source matrix
 - Methodology section
-- Google Forms questionnaire
+- Google Forms questionnaire with consent and branching
 - Cleaned survey dataset
-- Descriptive and inferential analysis
+- Descriptive and inferential analysis with output tables and charts
 - Final academic report
 - Team presentation
 - Appendices, including consent form and questionnaire
@@ -52,10 +52,11 @@ This project examines how KIU undergraduate students perceive internship support
 - Deadline for closing Google Forms
 - Citation style required by the instructor
 - Whether to report school-level comparisons or only overall results
+- Whether the final report should include all generated charts or only the clearest two to three
 
 ## Success Criteria
 
-The project is successful if the team can clearly answer the research question using survey evidence, present descriptive results, test the hypothesis about internship readiness, and provide practical recommendations for improving internship support services at KIU.
+The project is successful if the team can clearly answer the research question using survey evidence, present descriptive results, test the hypothesis about internship readiness, and provide practical recommendations for improving internship support services at KIU. A strong submission should also explain limitations honestly, avoid causal claims from cross-sectional data, and tie recommendations to the survey results.
 
 ## Risk Management
 
@@ -66,4 +67,3 @@ The project is successful if the team can clearly answer the research question u
 | Missing data | Harder statistical comparison | Keep essential questions required and document exclusions |
 | Biased sample | Results may not represent all students | Describe sampling limitations honestly |
 | Late analysis | Weak report and presentation | Run analysis first on dummy data, then replace with real data |
-

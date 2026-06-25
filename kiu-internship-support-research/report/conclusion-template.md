@@ -6,9 +6,14 @@ This study examined how KIU undergraduate students perceive the effectiveness of
 
 ## Summary of Findings
 
-Briefly summarize the most important findings.
+Briefly summarize the most important findings:
 
-Example sentence:
+- Awareness and usage level
+- Strongest and weakest service areas among support users
+- Readiness comparison between support users and non-users
+- Main improvement priorities and open-ended themes
+
+Suggested wording:
 
 > The results showed that students were generally [aware/not fully aware] of internship support services and that students who used the services reported [higher/similar/lower] perceived internship readiness compared with students who did not use them.
 
@@ -16,13 +21,13 @@ Example sentence:
 
 Provide a direct answer.
 
-Example sentence:
+Suggested wording:
 
 > Based on the survey findings, KIU's internship support services appear to be [effective/moderately effective/in need of improvement], particularly in the areas of [strong areas], while improvement is needed in [weak areas].
 
 ## Recommendations
 
-Recommended improvements may include:
+Choose the recommendations that are supported by the actual findings:
 
 - Create one central internship information platform.
 - Communicate internship opportunities earlier and more consistently.
@@ -33,7 +38,6 @@ Recommended improvements may include:
 
 ## Final Statement
 
-Example closing:
+Suggested closing:
 
 > Strengthening internship support services can help students feel more prepared, confident, and informed as they move from university study into professional experience.
-

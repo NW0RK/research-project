@@ -12,9 +12,10 @@ How effective do KIU undergraduate students perceive KIU's internship support se
 
 1. How aware are KIU undergraduate students of available internship support services?
 2. How many students have used internship support services?
-3. How satisfied are students with specific areas of support, such as CV support, interview preparation, communication, and industry connections?
-4. Do students who have used support services report higher perceived internship readiness than students who have not used them?
-5. What weaknesses and improvement suggestions do students identify?
+3. Why have some students not used internship support services?
+4. How satisfied are support users with specific areas of support, such as CV support, interview preparation, communication, and industry connections?
+5. Do students who have used support services report higher perceived internship readiness than students who have not used them?
+6. What weaknesses and improvement suggestions do students identify?
 
 ## Hypotheses
 
@@ -32,6 +33,7 @@ H1: Students who have used KIU internship support services report significantly 
 |---|---|
 | Awareness | The extent to which students know that internship support services exist and understand what they offer |
 | Usage | Whether a student has used any KIU internship support service |
+| Non-use reason | The main reason a student has not used KIU internship support services |
 | Satisfaction | Student evaluation of service quality and experience |
 | Perceived usefulness | Student belief that the services helped them with internship-related tasks |
 | Internship readiness | Student confidence in finding internships, preparing a CV, interviewing, and understanding employer expectations |
@@ -39,4 +41,3 @@ H1: Students who have used KIU internship support services report significantly 
 ## Expected Contribution
 
 The project can help identify which areas of KIU's internship support are working well and which areas need improvement. The findings may support better communication, more targeted workshops, stronger employer connections, and improved student preparation.
-
