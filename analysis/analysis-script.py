@@ -519,14 +519,15 @@ def chart_font(size):
         return ImageFont.load_default()
 
 
-def save_pillow_horizontal_chart(series, title, output_path, max_value=None, value_format="{:.1f}"):
+def save_pillow_horizontal_chart(series, title, output_path, max_value=None, value_format="{:.1f}", midpoint=None):
     series = series.dropna()
     if series.empty:
         return
 
     width = 1100
     row_height = 46
-    top_margin = 82
+    has_title = bool(title)
+    top_margin = 82 if has_title else 36
     bottom_margin = 60
     left_margin = 360
     right_margin = 110
@@ -537,7 +538,8 @@ def save_pillow_horizontal_chart(series, title, output_path, max_value=None, val
     label_font = chart_font(16)
     small_font = chart_font(14)
 
-    draw.text((32, 24), title, fill="#1F2933", font=title_font)
+    if has_title:
+        draw.text((32, 24), title, fill="#1F2933", font=title_font)
     chart_left = left_margin
     chart_right = width - right_margin
     chart_width = chart_right - chart_left
@@ -545,6 +547,16 @@ def save_pillow_horizontal_chart(series, title, output_path, max_value=None, val
 
     axis_y = height - bottom_margin + 8
     draw.line((chart_left, axis_y, chart_right, axis_y), fill="#9AA5B1", width=1)
+
+    if midpoint is not None:
+        mid_x = chart_left + int(chart_width * midpoint / max_data)
+        dash_len = 5
+        gap_len = 3
+        y = top_margin
+        while y < axis_y:
+            end_y = min(y + dash_len, axis_y)
+            draw.line((mid_x, y, mid_x, end_y), fill="#9AA5B1", width=1)
+            y = end_y + gap_len
 
     for index, (label, value) in enumerate(series.items()):
         y = top_margin + index * row_height
@@ -583,6 +595,7 @@ def save_pillow_charts(df, output_dir):
         "Mean Service Evaluation Scores Among Support Users",
         output_dir / "service-evaluation-means.png",
         max_value=5,
+        midpoint=3,
     )
 
     readiness_by_usage = df.groupby("used_support")["readiness_score"].mean().reindex(["No", "Yes"]).dropna()
@@ -596,7 +609,7 @@ def save_pillow_charts(df, output_dir):
     improvement_counts = df["top_improvement_priority"].dropna().value_counts().head(8).sort_values()
     save_pillow_horizontal_chart(
         improvement_counts,
-        "Top Improvement Priorities",
+        "",
         output_dir / "top-improvement-priorities.png",
         value_format="{:.0f}",
     )
@@ -625,7 +638,9 @@ def save_charts(df, output_dir):
 
     service_means = df.loc[support_users, SERVICE_COLUMNS].mean().sort_values()
     service_means.index = [LABELS.get(label, label) for label in service_means.index]
-    service_means.plot(kind="barh", color="#54A24B")
+    ax = service_means.plot(kind="barh", color="#54A24B")
+    ax.bar_label(ax.containers[0], fmt="%.2f", padding=5)
+    plt.axvline(x=3, color="gray", linestyle="--", linewidth=0.8)
     plt.title("Mean Service Evaluation Scores Among Support Users")
     plt.xlabel("Mean score (1-5)")
     plt.xlim(1, 5)
@@ -645,8 +660,9 @@ def save_charts(df, output_dir):
     plt.close()
 
     improvement_counts = df["top_improvement_priority"].dropna().value_counts().head(8).sort_values()
-    improvement_counts.plot(kind="barh", color="#B279A2")
-    plt.title("Top Improvement Priorities")
+    ax = improvement_counts.plot(kind="barh", color="#B279A2")
+    ax.bar_label(ax.containers[0], fmt="%.0f", padding=5)
+    ax.margins(x=0.15)
     plt.xlabel("Number of respondents")
     plt.tight_layout()
     plt.savefig(output_dir / "top-improvement-priorities.png", dpi=150)
