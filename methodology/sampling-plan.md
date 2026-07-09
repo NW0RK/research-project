@@ -2,31 +2,31 @@
 
 ## Target Population
 
-The target population is all KIU undergraduate students. The study is relevant to students across different years of study because internship awareness and readiness may develop before students actually apply for internships.
+KIU undergraduate students in the **Computer Science, Management, and Mathematics** schools, from **2nd through 4th year**.
+
+First-year students were excluded because they are unlikely to have engaged meaningfully with internship search or support services at this stage of their studies. Students from other, newly introduced KIU majors were excluded because these programs are too recently established to have sufficient institutional information on their internship support provisions.
 
 ## Accessible Population
 
-The accessible population includes KIU undergraduate students who can be reached through class groups, student communication channels, personal academic networks, and university-related online groups.
+KIU undergraduates reachable through class groups, student communication channels, personal academic networks, and university-related online groups.
 
 ## Sampling Method
 
-The study will use convenience sampling. This method is practical for a course project with limited time, but it may not produce a fully representative sample of all KIU undergraduate students.
+**Convenience sampling** — a non-probability method, chosen for practicality given the course project's limited timeframe. It does not produce a fully representative sample of all KIU undergraduate students.
 
-## Suggested Sample Size
+## Sample Size Targets
 
-The team should aim for at least 50 valid responses if possible. A larger sample improves the reliability of percentages and makes the comparison between students who used support and students who did not more meaningful.
+| Threshold | N | Purpose |
+|---|---:|---|
+| Minimum | 40 | Floor for descriptive reporting |
+| Preferred | 70 | Target for the class project |
+| Stretch | 150+ | Enables meaningful subgroup comparisons |
 
-Minimum practical target:
-
-- 30 responses: minimum practical threshold for descriptive findings
-- 50 responses: preferred target for class project reporting
-- 80+ responses: stretch target for stronger subgroup descriptions
+**Achieved: 122 valid responses**, above the preferred target and within the stretch range. Group split: 38 support users, 84 non-users — both groups large enough for the planned Welch t-test.
 
 ## Recruitment Channels
 
-Possible channels:
-
-- Course group chats
+- KIU class group chats
 - Student association groups
 - KIU undergraduate class networks
 - Personal academic contacts
@@ -34,10 +34,11 @@ Possible channels:
 
 ## Inclusion Criteria
 
-Participants should:
+Participants must:
 
-- Be current KIU undergraduate students
-- Be willing to participate voluntarily
+- Be a current KIU undergraduate in 2nd, 3rd, or 4th year
+- Be enrolled in Computer Science, Management, or Mathematics
+- Participate voluntarily
 - Complete the consent question before answering the survey
 
 ## Exclusion Criteria
@@ -46,16 +47,26 @@ Exclude responses if:
 
 - The respondent does not consent
 - The respondent is not a KIU undergraduate student
-- The response is mostly incomplete
+- The respondent is a 1st-year student
+- The respondent is enrolled in a major outside the three target schools
+- The response is largely incomplete
 - The response appears duplicated or unserious
 - The response includes direct identifiers in open-ended fields that cannot be safely anonymized
 
+**Applied result:** all 122 collected responses met the inclusion criteria; none required exclusion.
+
+## Duplicate Prevention
+
+A single official form link was used throughout, and Google Forms was configured to accept **only one response per account**. This prevented duplicate submissions at the point of collection without recording any email address or identifier in the exported data. Screening confirmed no duplicate rows.
+
 ## Sampling Limitation Statement
 
-Example report wording:
+Report wording:
 
 > Because the study used convenience sampling, the findings should be interpreted as perceptions of the surveyed students rather than as statistically representative evidence for all KIU undergraduates.
 
-## Distribution Reminder
+Note that the achieved sample skews toward 3rd-year (68.0%) and Computer Science (62.3%) students, so Management (27.9%) and Mathematics (9.8%) subgroups should be reported with caution.
 
-Use at least two recruitment reminders before closing the survey if the response count is below 50. To reduce duplicate responses, share one official form link and avoid collecting names or student IDs unless the instructor explicitly requires them.
+## Collection Window
+
+The form was open for eleven days, from **28 June to 8 July 2026**.

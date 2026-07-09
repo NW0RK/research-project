@@ -14,7 +14,7 @@ Participation is voluntary. You may choose not to participate. If you begin the 
 
 ## Time Required
 
-The survey should take approximately 5-7 minutes to complete.
+The survey takes approximately 5–7 minutes to complete.
 
 ## Risks and Benefits
 
@@ -22,7 +22,7 @@ There are no expected major risks. Some questions ask about your opinions of uni
 
 ## Privacy
 
-The survey should not ask for your name, student ID, email address, phone number, or other direct identifiers. Please do not include identifying details in open-ended responses.
+The survey does not ask for your name, student ID, email address, phone number, or other direct identifiers, and no such information is recorded in the exported data. Please do not include identifying details in open-ended responses.
 
 ## Data Use
 
@@ -37,3 +37,6 @@ By selecting "Yes, I agree to participate" in the survey, you confirm that:
 - Your responses may be used for academic analysis and reporting.
 - You understand that results will be reported in aggregate form.
 
+## Text Shown to Respondents
+
+> We are conducting a student research project for the Basic Research Methods and Tools course. The purpose of this survey is to understand how KIU undergraduate students perceive KIU's internship support services. The survey should take approximately 5–7 minutes. Participation is voluntary, and you may stop before submitting the form. Please do not include your name, student ID, email address, phone number, or other identifying information in open-ended responses. Your answers will be used only for academic purposes and reported in summary form.
