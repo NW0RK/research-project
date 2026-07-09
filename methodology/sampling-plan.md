@@ -15,14 +15,26 @@ KIU undergraduates reachable through class groups, student communication channel
 **Convenience sampling** — a non-probability method, chosen for practicality given the course project's limited timeframe. It does not produce a fully representative sample of all KIU undergraduate students.
 
 ## Sample Size Targets
+Population was based on rough calculation of perceived Management, Mathematics and Computer Science 2nd,3rd and 4th year total number.
 
-| Threshold | N | Purpose |
-|---|---:|---|
-| Minimum | 40 | Floor for descriptive reporting |
-| Preferred | 70 | Target for the class project |
-| Stretch | 150+ | Enables meaningful subgroup comparisons |
+| Margin of Error | Confidence Level | Sample Size (Population = 800) |
+| --------------: | ---------------: | -----------------------------: |
+|            ±10% |              95% |                             86 |
+|             ±7% |              95% |                            157 |
+|         **±5%** |          **95%** |                        **260** |
+|             ±4% |              95% |                            374 |
+|             ±3% |              95% |                            573 |
 
-**Achieved: 122 valid responses**, above the preferred target and within the stretch range. Group split: 38 support users, 84 non-users — both groups large enough for the planned Welch t-test.
+**Achieved: 122 valid responses**
+| Metric                      |     Value |
+| --------------------------- | --------: |
+| Population                  |       800 |
+| Valid responses             |       122 |
+| Confidence level            |       95% |
+| Approximate margin of error | **±7.3%** |
+
+The study obtained 122 valid responses from an estimated population of approximately 800 undergraduate students. At a 95% confidence level, this corresponds to an approximate margin of error of ±7.3%. While this is below the ideal sample size for a ±5% margin of error, it provides a sufficient basis for exploratory analysis of students' perceptions.
+
 
 ## Recruitment Channels
 
