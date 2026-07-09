@@ -20,8 +20,36 @@ except ModuleNotFoundError:
 
 
 BASE_DIR = Path(__file__).resolve().parents[1]
-RAW_PATH = BASE_DIR / "data" / "raw" / "google-forms-export-placeholder.csv"
+RAW_PATH = BASE_DIR / "data" / "raw" / "final_survey_results.csv"
 OUTPUT_DIR = BASE_DIR / "analysis" / "outputs"
+
+RAW_COLUMN_ALIASES = {
+    "1. Do you agree to participate in this survey?": "consent",
+    "2. What is your year of study?": "year_of_study",
+    "3. Which school are you enrolled in?": "school",
+    "4. Have you searched for an internship during your undergraduate studies?": "searched_for_internship",
+    "5. Have you completed an internship during your undergraduate studies?": "completed_internship",
+    "6. I am aware of KIU internship support services.": "awareness_score",
+    "7. Have you used any KIU internship support services?": "used_support",
+    "8. Which KIU internship support services have you used? Select all that apply.": "support_services_used",
+    "9. Internship-related information is easy to find.": "info_availability",
+    "10. Communication about internship opportunities is clear and timely.": "communication_quality",
+    "11. KIU provides useful support for internship applications.": "application_support",
+    "12. KIU provides useful CV or resume support.": "cv_support",
+    "13. KIU provides useful interview preparation support.": "interview_support",
+    "14. KIU provides helpful employer or industry connections.": "industry_connections",
+    "15. Internship support services are easy to access.": "accessibility",
+    "16. Overall, I am satisfied with KIU internship support services.": "overall_satisfaction",
+    "17. KIU support services have improved my internship readiness.": "support_readiness_impact",
+    "18. What is the main reason you have not used KIU internship support services?": "nonuse_reason",
+    "19. I feel confident finding internship opportunities.": "finding_confidence",
+    "20. I feel confident preparing a strong CV or resume.": "cv_confidence",
+    "21. I feel confident preparing for internship interviews.": "interview_confidence",
+    "22. I understand what employers expect from interns.": "employer_expectations",
+    "23. Which improvement would help students the most?": "top_improvement_priority",
+    "24. What is the biggest weakness of KIU internship support services?": "biggest_weakness",
+    "25. What improvement would you suggest for KIU internship support services?": "improvement_suggestion",
+}
 
 EXPECTED_COLUMNS = [
     "respondent_id",
@@ -230,12 +258,22 @@ def validate_columns(df):
         )
 
 
+def normalize_raw_columns(df):
+    df = df.rename(columns=RAW_COLUMN_ALIASES)
+
+    if "respondent_id" not in df.columns:
+        df.insert(0, "respondent_id", [f"R{index:03d}" for index in range(1, len(df) + 1)])
+
+    return df
+
+
 def load_and_clean_data(path):
     if not path.exists():
         raise FileNotFoundError(f"Could not find CSV file: {path}")
 
     df = pd.read_csv(path)
     df.columns = [column.strip() for column in df.columns]
+    df = normalize_raw_columns(df)
     validate_columns(df)
 
     for column in YES_NO_COLUMNS:
